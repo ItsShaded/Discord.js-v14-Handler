@@ -1,7 +1,7 @@
 {
-  "name": "djshandler",
+  "name": "djshandler-v14",
   "version": "1.0.0",
-  "description": "a discord command and event handler based on discord.js v14",
+  "description": "Discord command handler based on Djs v14",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,11 +9,11 @@
   },
   "keywords": [
     "discord.js",
-    "discord.jsv14",
+    "shaded",
     "discordjsv14",
-    "command-handler"
+    "djs-command-handler"
   ],
-  "author": "KabirSingh",
+  "author": "Shaded",
   "license": "ISC",
   "dependencies": {
     "@discordjs/rest": "^0.4.0-dev.1648339702-520f471",
