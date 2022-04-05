@@ -1,4 +1,4 @@
-<h1 align="center">My New Personal Website</h1>
+<h1 align="center">Discord.js v14 Handler</h1>
 
 <p align="center">
   <a href="#about">About</a>
