@@ -14,7 +14,7 @@
     "djs-command-handler"
   ],
   "author": "Shaded",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@discordjs/rest": "^0.4.0-dev.1648339702-520f471",
     "discord-api-types": "^0.30.0",
