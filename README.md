@@ -9,7 +9,7 @@
 
 ## Setup
 
-**1.** Install [node.js v16](https://nodejs.org/en/) or higher
+**1.** Install [Node.js v16](https://nodejs.org/en/) or higher
 
 **2.** Download this repo and unzip it | You can also git clone it
 
