@@ -9,15 +9,15 @@
 
 ## Setup
 
-**1.** Install [Node.js v16](https://nodejs.org/en/) or higher
+•  Install [Node.js v16](https://nodejs.org/en/) or higher version of Node.js
 
-**2.** Download this repo and unzip it | You can also git clone it
+•  Download this repo | You can also git clone it
 
-**3.** Fill your details in **`settings/config.js`**
+•  Fill up your details in **`settings/config.js`**
 
-**4.** After Filling everything in config run **`setup.bat`** 
+•  After Filling everything in config, Run **`setup.bat`** 
 
-**5.** Start the bot with **`start.bat`** 
+•  Start the bot with **`start.bat`** 
 
 
 ## License
