@@ -26,14 +26,14 @@ client.on("interactionCreate", async (interaction) => {
       if (!interaction.member.permissions.has(cmd.userPermissions || [])) {
         return client.embed(
           interaction,
-          `You Don't Have \`${cmd.userPermissions}\` Permission to Use \`${cmd.name}\` Command!!`
+          `You don't have \`${cmd.userPermissions}\` permission to use the \`${cmd.name}\` command!!`
         );
       } else if (
         !interaction.guild.me.permissions.has(cmd.botPermissions || [])
       ) {
         return client.embed(
           interaction,
-          `I Don't Have \`${cmd.botPermissions}\` Permission to Use \`${cmd.name}\` Command!!`
+          `I don't have \`${cmd.botPermissions}\` permission to use the \`${cmd.name}\` command!!`
         );
       } else if (cooldown(interaction, cmd)) {
         return client.embed(
