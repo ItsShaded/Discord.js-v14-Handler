@@ -101,7 +101,7 @@ module.exports = async (client) => {
         }
       } else {
         channel.send(
-          `I don't have \`UseApplicationCommands\` so i can't create slash commands in your server , if you want to use me then give me \`USE_APPLICATION_COMMANDS\` and reinvite`
+          `I don't have \`UseApplicationCommands\` persmission so I am unable to create slash commands. Give me \`USE_APPLICATION_COMMANDS\` permission and reinvite me.`
         );
       }
     });
