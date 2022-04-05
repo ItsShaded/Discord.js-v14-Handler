@@ -14,7 +14,7 @@ client.on("messageCreate", async (message) => {
             name: client.user.tag,
             iconURL: client.user.displayAvatarURL(),
           },
-          description: `**To See My All Commans Type **\`/help\``,
+          description: `**Type**\`/help\` to browse my available commands.`,
           footer: {
             text: message.author.tag,
             iconURL: message.author.displayAvatarURL(),
