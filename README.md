@@ -26,5 +26,3 @@ The code is released under the [MIT](https://github.com/ItsShaded/Discord.js-v14
 license, while the rights to any art assets from 3rd parties belong to
 their respective owners.
 
-<br>
-You can use this website however you want as long as you give credits.
